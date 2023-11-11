@@ -1,0 +1,2 @@
+# flyingdick
+just run it
